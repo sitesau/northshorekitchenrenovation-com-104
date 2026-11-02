@@ -1,0 +1,22 @@
+{
+  "wheel_id": 665,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-com-104",
+  "project": "kitchen-renovations-north-shore-planning-guide-f724a056d5c847a4",
+  "parent_t1_ref": "northshorekitchenrenovation-com-151",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore planning guide",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-north-shore-planning-guide-f724a056d5c847a4/",
+  "tier": "T2",
+  "writeback_nonce": "b4c32c3c0d7db7f5",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-north-shore-faq-60e1684712a7d73a8c89450717a/",
+      "anchor": "the kitchen renovations north shore faq overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
